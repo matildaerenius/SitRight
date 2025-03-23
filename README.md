@@ -1,20 +1,20 @@
 # SitRight
-SitRight är en webbaserad applikation som hjälper användare att snabbt avgöra var i tåget de ska sitta (långt bak, mitten eller långt fram) för att lättast nå en specifik uppgång vid en tunnelbanestation. Användaren anger sin startstation, vilken nedgång/utgång som togs, samt slutstation eller adress. Applikationen returnerar då en rekommendation om var i tåget man ska sitta, och visar även en karta med uppgångarnas placering.
+SitRight is a web-based application that helps users quickly determine where on the train they should sit (far back, middle, or front) to most easily reach a specific exit at a subway station. The user specifies their starting station, the entrance/exit taken, and the destination station or address. The application then returns a recommendation on where in the train to sit, and also displays a map showing the exits’ locations.
 
-## Funktioner
+## Features
 
-## Teknologi
+## Technology
 
-## Projektstruktur
+## Project Structure
 
-## Installation & Körning
+## Installation & Running
 
-## Konfiguration
+## Configuration
 
 ## API
 
-## Framtida Utveckling
+## Future Development
 
-## Licens
+## License
 
-## Kontakt
+## Contact
