@@ -1,4 +1,4 @@
 package com.sitright.repository;
 
-public class JourneyRepository {
+public interface JourneyRepository {
 }
