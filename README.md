@@ -6,3 +6,15 @@ SitRight är en webbaserad applikation som hjälper användare att snabbt avgör
 ## Teknologi
 
 ## Projektstruktur
+
+## Installation & Körning
+
+## Konfiguration
+
+## API
+
+## Framtida Utveckling
+
+## Licens
+
+## Kontakt
